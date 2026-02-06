@@ -41,6 +41,7 @@ Problems:
     7. Not every class has zoom recording
     8. For office hours, it takes too long to get the spot
 
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
