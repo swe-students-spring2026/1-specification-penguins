@@ -15,7 +15,7 @@ Goals/Needs: <br />
     3. Diagnostic test to gauge student's level. <br />
     4. Assurance of payment on time (streamline the process). <br />
 
-Problems: <br />
+Problems: <br /> 
     1. No knowledge of student's current level of understanding causing time devoted to that. <br />
     2. Poor communication when tutoring with a mentor group involving schedule changes/lack of notice. <br />
     3. Services that hire tutors give a low set rate and don't give tutors much of the money that the services charge clients. <br />
@@ -27,7 +27,13 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+Tutor: <br />
+- As a tutor, I want control over my wage so that I'm not undervalued
+- As a tutor, I want to advertise my profile so that I get more opportunities
+
+Student: <br />
+- As a student, I want to see tutor reviews so that I know they're helpful
+- As a student, I want to see tutors who may have been in the same major at my school so that they have first hand experience with my classes
 
 ## Activity Diagrams
 
