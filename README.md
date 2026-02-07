@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-[Luca Andreani](https://github.com/Landreani04) [James Huang](https://github.com/JamesHuang2004) [Blake Chang](https://github.com/louisvcarpet) [Grace Yin](https://github.com/gy28611)
+[Luca Andreani](https://github.com/Landreani04) [James Huang](https://github.com/JamesHuang2004) [Blake Chang](https://github.com/louisvcarpet) [Grace Yin](https://github.com/gy28611) [Michael Miao](https://github.com/miaom-Konkon)
 
 ## Stakeholders
 
