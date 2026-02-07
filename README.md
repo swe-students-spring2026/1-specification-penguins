@@ -72,7 +72,7 @@ Tutor: <br />
 - As a tutor, I want to advertise my profile so that I get more opportunities
 - As a tutor, I want to run a short consultation session before accepting a student so that I can decide whether the student is a good fit for my teaching style.
 - As a tutor, I want to receive automatic notifications when students change or cancel sessions so that I am not surprised by schedule changes.
-- As a tutor, I want to teach at my own place so I can safe time on traveling.
+- As a tutor, I want to teach at my own place so I can save time on traveling.
 - As a tutor, I want to have a platform that I can spread my teaching all over the world without geological challenges.
 - As a tutor, I want a smart and con
 
@@ -90,7 +90,7 @@ Student: <br />
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+["As a tutor, I want control over my wage so that I'm not undervalued"](../../Downloads/Tutor-wages.pdf) <br />
 
 ## Clickable Prototype
 
