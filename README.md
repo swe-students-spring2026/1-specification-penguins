@@ -70,11 +70,16 @@ See instructions. Delete this line and place your Product Vision Statement here.
 Tutor: <br />
 - As a tutor, I want control over my wage so that I'm not undervalued
 - As a tutor, I want to advertise my profile so that I get more opportunities
+- As a tutor, I want to run a short consultation session before accepting a student so that I can decide whether the student is a good fit for my teaching style.
+- As a tutor, I want to receive automatic notifications when students change or cancel sessions so that I am not surprised by schedule changes.
 
 Student: <br />
 - As a student, I want to see tutor reviews so that I know they're helpful
 - As a student, I want to see tutors who may have been in the same major at my school so that they have first hand experience with my classes
 - As a student, I want to see tutors who not only succeeded in the subject, but also have the ability to teach and explain in an understandable way. 
+- As a student, I want to book a short trial or consultation session with a tutor so that I can check if the tutor is right for me before committing.
+- As a student, I want to track my learning progress and completed topics so that I can see how much I have improved over time.
+- As a student, I want tutors to help me connect what I learn in class to real-world projects or portfolio work so that I can apply my skills outside of school.
 
 ## Activity Diagrams
 
