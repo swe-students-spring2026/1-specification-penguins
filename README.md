@@ -21,14 +21,14 @@ Problems: <br />
     3. Services that hire tutors give a low set rate and don't give tutors much of the money that the services charge clients. <br />
     4. Services assigned people to tutors which sometimes caused mismatches. <br />
 
-Rosie Wang(Tutor):
-Goals:
-    1. Finding correct materials for students based on different needs. 
-    2. Flexibly designing teaching plans based on each student's level.
+Rosie Wang(Tutor):<br /> 
+Goals:<br /> 
+    1. Finding correct materials for students based on different needs. <br /> 
+    2. Flexibly designing teaching plans based on each student's level.<br /> 
 
-Problems:
-    1. Issues when communicating with students about their needs, some students aren't clear about what specific areas they need most help with.
-    2. Sometimes have to go pass the scheduled session time to finish explaining problems but don't get paid for the extra time.
+Problems:<br /> 
+    1. Issues when communicating with students about their needs, some students aren't clear about what specific areas they need most help with.<br /> 
+    2. Sometimes have to go pass the scheduled session time to finish explaining problems but don't get paid for the extra time.<br /> 
 
 
 Rachel Kim (Student): 
@@ -52,14 +52,14 @@ Problems:
 
 Vicky Zhou(Student):
 Goals:
-    1. Finding tutors who took the class before and got good grades, preferably with lots of experience.
-    2. Need tutors who not only succeeded in the course but also can explain concepts in a way students can understand.  
-    3. Finding tutors who can design exercise problems based on each students' needs, instead of giving the same material for students of all levels.
+    1. Finding tutors who took the class before and got good grades, preferably with lots of experience.<br /> 
+    2. Need tutors who not only succeeded in the course but also can explain concepts in a way students can understand.<br /> 
+    3. Finding tutors who can design exercise problems based on each students' needs, instead of giving the same material for students of all levels.<br /> 
 
 Problems:
-    1. Having trouble to verify whether the tutor is experienced or not
-    2. Some tutors succeed in the subject, but cannot teach and explain the concepts to someone new. 
-    3. The way tutors explain specific problems differ from how the professor teaches in class, bringing conflicts and confusion.
+    1. Having trouble to verify whether the tutor is experienced or not<br /> 
+    2. Some tutors succeed in the subject, but cannot teach and explain the concepts to someone new.<br /> 
+    3. The way tutors explain specific problems differ from how the professor teaches in class, bringing conflicts and confusion.<br /> 
 
 ## Product Vision Statement
 
@@ -74,7 +74,11 @@ Tutor: <br />
 - As a tutor, I want to receive automatic notifications when students change or cancel sessions so that I am not surprised by schedule changes.
 - As a tutor, I want to teach at my own place so I can save time on traveling.
 - As a tutor, I want to have a platform that I can spread my teaching all over the world without geological challenges.
-- As a tutor, I want a smart and con
+- As a tutor, I want a smart and communicative student.
+- As a tutor, I want to set a cancellation policy so my time is protected.
+- As a tutor, I want to set different hourly rates for different subjects and difficulty levels to make sure I'm paid fairly. 
+- As a tutor, I want to set package discounts to promote students' long-term commitment.
+- As a tutor, I want to require a deposit for bookings so I can reduce last-minute no-shows.   
 
 Student: <br />
 - As a student, I want to see tutor reviews so that I know they're helpful
@@ -87,12 +91,15 @@ Student: <br />
 - As a student, I want sessions that move at my pace so that I can actually understand the material instead of falling behind or getting bored.
 - As a student, I want to track my progress over time so that I know I’m improving and not just doing random sessions.
 - As a student, I want to avoid all the morning classes that I can't even focus well but I can still have material to learn the course content super well.
+- As a student, I want a tutor filtering functions so I can find tutors based on subjects, level, and price.
 
 ## Activity Diagrams
 
 ["As a tutor, I want control over my wage so that I'm not undervalued"](Tutor-wages.pdf) <br />
+[As a tutor, I want to run a short consultation session before accepting a student so that I can decide whether the student is a good fit for my teaching style.] ()
 ["As a student, I want to see tutor reviews so that I know they're helpful"](Student_see-reviews.pdf) <br />
 ["As a student, I want to quickly find a tutor who matches my subject and level"](Student_find-nice-tutors.pdf) <br />
+
 
 ## Clickable Prototype
 
