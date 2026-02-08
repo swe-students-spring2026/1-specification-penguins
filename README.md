@@ -69,7 +69,7 @@ Problems:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Streamlining the search for a tutor.
 
 ## User Requirements
 
