@@ -102,7 +102,7 @@ Student: <br />
 ## Activity Diagrams
 
 ["As a tutor, I want control over my wage so that I'm not undervalued"](Tutor-wages.pdf) <br />
-["As a tutor, I want to run a short consultation session before accepting a student so that I can decide whether the student is a good fit for my teaching style."] (Tutor1(consultation).pdf)<br />
+["As a tutor, I want to run a short consultation session before accepting a student so that I can decide whether the student is a good fit for my teaching style."](Tutor1(consultation).pdf)<br />
 ["As a student, I want to see tutor reviews so that I know they're helpful"](Student_see-reviews.pdf) <br />
 ["As a student, I want to quickly find a tutor who matches my subject and level"](Student_find-nice-tutors.pdf) <br />
 
