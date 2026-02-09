@@ -97,7 +97,8 @@ Student: <br />
 - As a student, I want sessions that move at my pace so that I can actually understand the material instead of falling behind or getting bored.
 - As a student, I want to track my progress over time so that I know I’m improving and not just doing random sessions.
 - As a student, I want to avoid all the morning classes that I can't even focus well but I can still have material to learn the course content super well.
-- As a student, I want a tutor filtering functions so I can find tutors based on subjects, level, and price.
+- As a student, I want verified tutor credentials and course experience so that I can trust the tutor’s expertise before booking.
+
 
 ## Activity Diagrams
 
