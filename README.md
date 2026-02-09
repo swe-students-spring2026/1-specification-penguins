@@ -69,7 +69,7 @@ Problems:
 
 ## Product Vision Statement
 
-Streamlining the search for a tutor.
+A personalized tutor‑matching platform that pairs students with course‑specific, proven tutors through diagnostics, trial sessions, and flexible scheduling for live, tailored guidance.
 
 ## User Requirements
 
