@@ -34,25 +34,24 @@ Problems:<br />
     3. Messy schedule because of last minutes changes/cancellation.<br /> 
     4. Hard to be discovered/stand out. <br /> 
 
-
-Rachel Kim (Student): 
+Rachel Kim (Student):
 Goals/Needs:
-     1. Find qualified tutors quickly for specific subjects and levels. 
-     2. Flexible scheduling that fits personal schedule outside of school. 
-     3. Personalized learning paths and progress tracking. 
-     4. “Skill stacking”: blend coursework with real-world projects and portfolio output. 
-     5. Tutor continuity: keep the same tutor long-term to build momentum. 
-     6. Advice from someone who had experience with the course 
+    1. Find qualified tutors quickly for specific subjects and levels.
+    2. Flexible scheduling that fits personal schedule outside of school.
+    3. Personalized learning paths and progress tracking.
+    4. “Skill stacking”: blend coursework with real-world projects and portfolio output.
+    5. Tutor continuity: keep the same tutor long-term to build momentum.
+    6. Advice from someone who had experience with the course.
 
-Problems: 
-    1. Can't understand well for the content taught by school's professor 
-    2. The teaching speed at school is impossible to control by student (some prefer faster/slower) 
-    3. Lack of 1 on 1 learning environment-- customization 
-    4. Student gets distracted easily within a huge class size 
-    5. Hard to find help when the class size is huge 
-    6. Usually can't pay attention for the morning class 
-    7. Not every class has zoom recording 
-    8. For office hours, it takes too long to get the spot
+Problems:
+    1. Can't understand well for the content taught by school's professor.
+    2. The teaching speed at school is impossible to control by student (some prefer faster/slower).
+    3. Lack of 1 on 1 learning environment-- customization.
+    4. Student gets distracted easily within a huge class size.
+    5. Hard to find help when the class size is huge.
+    6. Usually can't pay attention for the morning class.
+    7. Not every class has zoom recording.
+    8. For office hours, it takes too long to get the spot.
 
 Vicky Zhou(Student):
 Goals:
@@ -111,4 +110,5 @@ Student: <br />
 ## Clickable Prototype
 
 Click to visit the prototype here: [Tutorea App Prototype](https://www.figma.com/proto/uDK3tFTmH4IqPEBuQLZ3Qz/WireFrame-for-Tutor-App?node-id=5659-361&t=UfqIJyHeayjewG6R-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5659%3A361)
+
 
