@@ -69,7 +69,7 @@ Problems:
 
 ## Product Vision Statement
 
-A personalized tutor‑matching platform that pairs students with course‑specific, proven tutors through diagnostics, trial sessions, and flexible scheduling for live, tailored guidance.
+A personalized tutor‑matching platform that pairs students with course‑specific, proven tutors, trial sessions, and flexible scheduling for live, tailored guidance.
 
 ## User Requirements
 
@@ -110,4 +110,5 @@ Student: <br />
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Click to visit the prototype here: [Tutorea App Prototype](https://www.figma.com/proto/uDK3tFTmH4IqPEBuQLZ3Qz/WireFrame-for-Tutor-App?node-id=5718-695&t=tjtTVBytT8odlC7S-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5659%3A361)
+
