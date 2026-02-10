@@ -4,12 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-<<<<<<< HEAD
-[Luca Andreani](https://github.com/Landreani04) [James Huang](https://github.com/JamesHuang2004)
-[Blake Chang](https://github.com/louisvcarpet)
-=======
 [Luca Andreani](https://github.com/Landreani04) [James Huang](https://github.com/JamesHuang2004) [Blake Chang](https://github.com/louisvcarpet) [Grace Yin](https://github.com/gy28611) [Michael Miao](https://github.com/miaom-Konkon)
->>>>>>> origin
 
 ## Stakeholders
 
@@ -26,27 +21,6 @@ Problems: <br />
     3. Services that hire tutors give a low set rate and don't give tutors much of the money that the services charge clients. <br />
     4. Services assigned people to tutors which sometimes caused mismatches. <br />
 
-<<<<<<< HEAD
-Rachel Kim (Student):
-Goals/Needs:
-    1. Find qualified tutors quickly for specific subjects and levels.
-    2. Flexible scheduling that fits personal schedule outside of school.
-    3. Personalized learning paths and progress tracking.
-    4. “Skill stacking”: blend coursework with real-world projects and portfolio output.
-    5. Tutor continuity: keep the same tutor long-term to build momentum.
-    6. Advice from someone who had experience with the course 
-
-Problems:
-    1. Can't understand well for the content taught by school's professor
-    2. The teaching speed at school is impossible to control by student (some prefer faster/slower)
-    3. Lack of 1 on 1 learning environment-- customization
-    4. Student gets distracted easily within a huge class size
-    5. Hard to find help when the class size is huge
-    6. Usually can't pay attention for the morning class
-    7. Not every class has zoom recording
-    8. For office hours, it takes too long to get the spot
-
-=======
 Rosie Wang(Tutor):<br /> 
 Goals:<br /> 
     1. Finding correct materials for students based on different needs. <br /> 
@@ -92,7 +66,6 @@ Problems:
     2. Some tutors succeed in the subject, but cannot teach and explain the concepts to someone new.<br /> 
     3. The way tutors explain specific problems differ from how the professor teaches in class, bringing conflicts and confusion.<br /> 
     4. Don't know where to start or how to find who fits her well in a short time, especially during final week. <br /> 
->>>>>>> origin
 
 ## Product Vision Statement
 
