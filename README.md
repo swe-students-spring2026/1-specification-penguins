@@ -110,5 +110,5 @@ Student: <br />
 
 ## Clickable Prototype
 
-Click to visit the prototype here: [Tutorea App Prototype](https://www.figma.com/proto/uDK3tFTmH4IqPEBuQLZ3Qz/WireFrame-for-Tutor-App?node-id=5718-695&t=tjtTVBytT8odlC7S-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5659%3A361)
+Click to visit the prototype here: [Tutorea App Prototype](https://www.figma.com/proto/uDK3tFTmH4IqPEBuQLZ3Qz/WireFrame-for-Tutor-App?node-id=5659-361&t=UfqIJyHeayjewG6R-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5659%3A361)
 
